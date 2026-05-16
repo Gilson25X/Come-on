@@ -1,0 +1,9 @@
+# Intrusion Detection System — Dependencies
+#
+# This tool uses only Python standard library modules.
+# No external packages are required.
+#
+# Optional dependencies for enhanced functionality:
+# watchdog>=3.0.0       # Real-time filesystem event monitoring
+# scapy>=2.5.0          # Deep packet inspection and protocol analysis
+# python-geoip2>=4.0.0  # GeoIP lookups for IP reputation
